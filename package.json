@@ -1,0 +1,32 @@
+{
+  "name": "webtodesktop",
+  "version": "1.1.4",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "electron",
+    "electron-builder",
+    "node.js",
+    "fullstack",
+    "javascript",
+    "web development",
+    "desktop app",
+    "npm",
+    "programming",
+    "MERN stack",
+    "web-to-desktop",
+    "software development",
+    "open source",
+    "javascript framework",
+    "desktop application",
+    "UI development",
+    "application packaging",
+    "cross-platform",
+    "web integration"
+  ],
+  "author": "",
+  "license": "ISC"
+}
